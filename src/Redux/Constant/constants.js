@@ -1,0 +1,11 @@
+const constants = {
+    INITIALIZE_COIN: 'INITIALIZE_COIN',
+    EXCHANGE_SUCCESS: 'EXCHANGE_SUCCESS',
+    EXCHANGE_ERROR: 'EXCHANGE_ERROR',
+
+    INITIALIZE :'INITIALIZE',
+    COIN_API :'COIN_API',
+    COIN_API_ERR :'COIN_API_ERR',
+}
+
+export default constants
