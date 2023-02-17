@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/css/main.c8648ec7.css",
+    "main.js": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/js/main.e9705ffd.js",
+    "static/js/787.ec704a7a.chunk.js": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/index.html",
+    "main.c8648ec7.css.map": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/css/main.c8648ec7.css.map",
+    "main.e9705ffd.js.map": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/js/main.e9705ffd.js.map",
+    "787.ec704a7a.chunk.js.map": "/https//HemantWD.github.io/Crypto_Currency_Dashboard/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8648ec7.css",
+    "static/js/main.e9705ffd.js"
+  ]
+}
