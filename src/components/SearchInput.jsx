@@ -19,7 +19,7 @@ export default function SearchInput({ handleSearch }) {
         // console.log("coin",coin)
         setCoinSearch(coin);
         setSearchText("");
-        setSearchData(coin);
+        setSearchData();
     }
 
 
