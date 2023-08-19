@@ -4,7 +4,8 @@
 This is an Cryptocurrency Dashboard website that allows users to view cryptocurrency trends through graphical representation.
 ## Deployment
 
-Click on the link to visit Cryptocurrency Dashboard link
+Click on the link to visit Cryptocurrency Dashboard link :
+https://cryptocurrencydashboard-hem.netlify.app/
 
 ## Framework /Dependencies
 - ReactJs - https://reactjs.org/
@@ -21,7 +22,7 @@ Click on the link to visit Cryptocurrency Dashboard link
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone https://github.com/SakshamAgrawall/CryptoCurrency_Dashboard.git
+git clone https://github.com/HemantWD/Crypto_Currency_Dashboard.git
 ```
 - Open your favorite code editor and run Locally!
 
